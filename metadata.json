@@ -1,0 +1,5 @@
+{
+  "name": "AI Brain Tumor Detector",
+  "description": "An advanced web application that leverages AI to analyze brain MRI scans and detect the presence of tumors. Users can upload an MRI image, and the system provides a simulated analysis with a confidence score. This app serves as a demonstration of AI in medical imaging.",
+  "requestFramePermissions": []
+}
